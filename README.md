@@ -1,1 +1,1 @@
-(Poster.pdf)
+[Poster](./Poster.pdf)
